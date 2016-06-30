@@ -1,0 +1,6 @@
+1. shifted map on top of ice?
+
+2. could not download imagemagick onto mac for life of me
+  a. were there any other pieces of software/packages I need to run the animation package?
+  
+3. what exactly is the conc[entration] data set?
